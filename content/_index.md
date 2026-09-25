@@ -1,10 +1,11 @@
 ---
-title: Hugoloop
-description: Joodaloop's recommended starter for a new Hugo site
+title: skyash
+description: Yash's personal website
 ---
 
-The simplest Hugo site structure I could come up with. It doesn't use themes, any unnecessary folders (data, archetypes), or the other powerful Hugo features like image processing, taxonomies, render hooks etc.
+My name is Yash.<br/>
+Things I work on mostly fall under technology, design and music.
 
-The goal is to make it usable and understandable without you having to read the docs to get started. I use this as a starter myself almost every month and it's been refined to only contain the truly universal files/configs.
+Trying to get good at computational media, writing and hip-hop music.
 
-To get started, [visit the repository](https://github.com/joodaloop/hugoloop) and follow the instructions in the README page.
+Building at [Creative Computer](http://localhost:1313/).

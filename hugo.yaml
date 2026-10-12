@@ -1,6 +1,6 @@
 baseURL: "https://skyash.space/"
 languageCode: "en-us"
-title: "Hugoloop"
+title: "skyash"
 description: "Yash's personal website"
 
 noBuildLock: true # disable creation of the .hugo_build.lock file.
